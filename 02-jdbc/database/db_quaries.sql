@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS studentDatabase;
+--DROP DATABASE IF EXISTS studentDatabase;
 
 CREATE DATABASE studentDatabase;
 
